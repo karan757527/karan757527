@@ -6,10 +6,10 @@ I am Karan Agrawal 🙋🏻‍♂️, a Data Science Enthusiastic.
 
 
 ## Connect with Me 🤝🏻
-
-<img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/li.svg" alt="" width="350" height="70">
+<h3>LinkedIN</h1>
+<img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/li.svg" alt="LinkedIN" width="350" height="70">
 <img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/fb.svg" alt="" width="350" height="70">
-<img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/tw.svg =350x70" alt="" width="350" height="70">
+<img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/tw.svg" alt="" width="350" height="70">
 <img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/ig.svg" alt="" width="350" height="70">
 <img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/ea.svg" alt="" width="350" height="70">
 <img src="https://raw.githubusercontent.com/karan757527/karan757527/ed88bb53f9c3fdd0c3351ef9324a3eac811a650d/pf.svg" alt="" width="350" height="70">
